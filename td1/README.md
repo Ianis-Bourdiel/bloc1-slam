@@ -6,5 +6,5 @@
 -Element 2
 -Elément 3
 #### Liste ordonnée
--Elément A
--Elément B
+1. Elément A
+2. Elément B
